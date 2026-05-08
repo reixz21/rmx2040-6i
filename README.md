@@ -14,6 +14,6 @@ Do not flash or try to write this files on other firmware versions (or try it bu
 | A16-DERPFEST | Derpfest | [Download](https://sourceforge.net/projects/szyryjn-android-project/files/Derpfest/) | |
 | A16-AXION | Axion | [Download](https://drive.google.com/file/d/1fPTol5YwEMiJ5TAg3kMqscIC3yqYBrMo/view) | TESTED (WORKING) |
 | A16-AXION | Axion (RMX2040 ROM-TESTED) | [Download](https://drive.google.com/file/d/1YNohDQ_jENw4iB6h1ASDZMHSeWkDuz_m/view?usp=drivesdk) | |
-| A16-INFINITYX | Supported to RMX2040 so.. compatible. | [Download](https://gofile.io/d/tsGdG7) | Working |
+| A16-INFINITYX | InfinityX (Supported to RMX2040 so.. compatible.) | [Download](https://gofile.io/d/tsGdG7) | Working |
 
 NOTE: U MUST FLASH `dtbo.img` FIRST.
